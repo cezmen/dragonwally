@@ -62,19 +62,17 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
 
 [5] SOFTWARE REQUIREMENTS
 
-[5.1] OPERATING SYSTEM : Linaro Debian 16.09
+    [5.1] OPERATING SYSTEM : Linaro Debian 16.09
+        http://builds.96boards.org/releases/dragonboard410c/linaro/debian/16.09/
 
-    http://builds.96boards.org/releases/dragonboard410c/linaro/debian/16.09/
-
-[5.2] AIStarVision Custom Boot Image for Dual Cameras
-
-    https://github.com/Kevin-WSCU/96Boards-Camera/tree/master/Pre-built/Debian_16.09/StereoCamera/OV5645
+    [5.2] AIStarVision Custom Boot Image for Dual Cameras
+        https://github.com/Kevin-WSCU/96Boards-Camera/tree/master/Pre-built/Debian_16.09/StereoCamera/OV5645
     
-    Using the "Fastboot Method", the user must replace the original "boot image" of Linaro Debian 16.09 
-    with "boot-db410c.img" provided in the link above.
+        Using the "Fastboot Method", the user must replace the original "boot image" of Linaro Debian 16.09 
+        with "boot-db410c.img" provided in the link above.
     
-    Instructions of the "Fastboot Method" :
-    http://www.96boards.org/documentation/ConsumerEdition/DragonBoard-410c/Installation/README.md/
+        Instructions of the "Fastboot Method" :
+            http://www.96boards.org/documentation/ConsumerEdition/DragonBoard-410c/Installation/README.md/
     
     
     
