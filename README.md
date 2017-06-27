@@ -69,7 +69,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
         https://github.com/Kevin-WSCU/96Boards-Camera/tree/master/Pre-built/Debian_16.09/StereoCamera/OV5645
     
         Using the "Fastboot Method", the user must replace the original "boot image" of Linaro Debian 16.09 
-        with "boot-db410c.img" provided in the link above.
+        with "boot-db410c.img" provided in the link above (5.2)
     
         Instructions of the "Fastboot Method" :
             http://www.96boards.org/documentation/ConsumerEdition/DragonBoard-410c/Installation/README.md/
