@@ -14,11 +14,15 @@ The user must choose an <install_dir> directory.
 
 Run the following commands :
 
-$ mkdir <install_dir>
-$ cd <install_dir>
-$ git clone https://github.com/cezmen/dragonwally/
-$ cd dragonwally
-$ tar -xvzf dragonwally-1.0.tar.gz
+  $ mkdir <install_dir>
+
+  $ cd <install_dir>
+
+  $ git clone https://github.com/cezmen/dragonwally/
+
+  $ cd dragonwally
+
+  $ tar -xvzf dragonwally-1.0.tar.gz
 
 This will install the DragonWally project in the directory <install_dir>/dragonwally/dw
 
