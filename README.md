@@ -62,7 +62,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
 
 [5] SOFTWARE REQUIREMENTS
 
-    [5.1] OPERATING SYSTEM : Linaro Debian 16.09
+    [5.1] Operating System : Linaro Debian 16.09
         http://builds.96boards.org/releases/dragonboard410c/linaro/debian/16.09/
 
     [5.2] AIStarVision Custom Boot Image for Dual Cameras
@@ -82,7 +82,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
         sudo apt-get install awscli
 
     [6.2] Configure Amazon AWS Credentials:
-    The user must provided an "access_key" and an "secret access key" provided by Amazon.
+    The user must provided an "access_key" and an "secret access key" provided by Amazon AWS.
 
         aws configure
         
