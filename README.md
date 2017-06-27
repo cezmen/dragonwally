@@ -6,7 +6,9 @@ Embarcados and Qualcomm.
 
 [1] INSTALLATION
 
-mkdir <install_dir>
-cd <install_dir>
+$ mkdir <install_dir>
 
+$ cd <install_dir>
+
+$ dragonwally/dragonwally-1.0.tar.gz
 
