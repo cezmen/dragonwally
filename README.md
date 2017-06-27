@@ -82,7 +82,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
         sudo apt-get install awscli
 
     [6.2] Configure Amazon AWS Credentials:
-    The user must provided an "access_key" and an "secret access key" provided by Amazon AWS.
+    The user must provided an "access_key" and a "secret access key" provided by Amazon AWS.
 
         aws configure
         
