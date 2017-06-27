@@ -87,7 +87,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
             AWS Secret Access Key [None]: <secret_access_key_provided_by_user>
             Default region name [None]: us-east-1
             Default output format [None]: json
-        
+    
     [6.3] Install AWS SDK for Python:
         $ pip install boto3 
  
