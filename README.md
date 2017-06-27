@@ -2,7 +2,7 @@
 
 This is the final "snapshot" of the DragonWally firmware, used during
 the contest "Inventando o Futuro com DragonBoard 410C" organized by
-Embarcados and Qualcomm
+Embarcados and Qualcomm.
 
 [1] INSTALLATION
 
