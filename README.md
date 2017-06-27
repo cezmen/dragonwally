@@ -31,7 +31,7 @@ To install, run the following commands :
 This will install the DragonWally project in the directory <install_dir>/dragonwally/dw
 
 
-[2] DIRECTORY STRUCTURE
+[2] DIRECTORY STRUCTURE DESCRIPTION
 
     DragonWally Sensor : <install_dir>/dragonwally/dw/dragonwallysensor
 
