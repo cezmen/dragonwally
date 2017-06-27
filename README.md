@@ -71,4 +71,5 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
     Using the "Fastboot Method", the user must replace the original "boot image" of Linaro Debian 16.09 
     with "boot-db410c.img" provided in the link above.
 
-    Instructions of the "Fastboot Method" : http://www.96boards.org/documentation/ConsumerEdition/DragonBoard-410c/Installation/README.md
+    Instructions of the "Fastboot Method" :
+    http://www.96boards.org/documentation/ConsumerEdition/DragonBoard-410c/Installation/README.md
