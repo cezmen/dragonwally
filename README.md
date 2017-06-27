@@ -73,6 +73,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
     Instructions of the "Fastboot Method" :
         http://www.96boards.org/documentation/ConsumerEdition/DragonBoard-410c/Installation/README.md/
     
+   
     
     
     
