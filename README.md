@@ -98,6 +98,10 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
  
 [7] INSTALL THE FRONTEND
 
+    sudo pip install Flask
+
+    sudo pip install -U flask-cors
+
     sudo apt-get install lighttpd
     
     sudo service lighttpd start
