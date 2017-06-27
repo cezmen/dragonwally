@@ -74,14 +74,15 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
     Instructions of the "Fastboot Method" :
     http://www.96boards.org/documentation/ConsumerEdition/DragonBoard-410c/Installation/README.md
 
+
 [6] AMAZON AWS Cloud Requirements
 
     [6.1] Install AWS Python packages:
         pip install awscli --upgrade --user
         sudo apt-get install awscli
 
-    [6.2] Configure AWS Credentials:
-    The user must provided an "access_key" and an "secret access key" provided py Amazon.
+    [6.2] Configure Amazon AWS Credentials:
+    The user must provided an "access_key" and an "secret access key" provided by Amazon.
 
         aws configure
         
