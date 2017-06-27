@@ -12,7 +12,7 @@ https://contest.embarcados.com.br/projetos/sistema-de-identificacao-de-pessoas-b
 
 [1] INSTALLATION
 
-The user must choose an <install_dir> directory.
+The user must choose an <install_dir> directory of the DragonBoard 410c.
 
 To install, run the following commands :
 
@@ -94,3 +94,15 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
     [6.3] Install AWS SDK for Python:
         pip install boto3 
  
+[7] INSTALL THE FRONTEND
+
+    sudo apt-get install lighttpd
+    
+    sudo service lighttpd start
+    
+    sudo cp -r <install_dir>/dragonwally/dw/dragonwallyadmin/DragonWallyFront/* /var/www/html/
+
+    sudo rm /var/www/html/index.lighttpd.html
+    
+    sudo service lighttpd restart
+    
