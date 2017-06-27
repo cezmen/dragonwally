@@ -79,7 +79,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
     [6.1] Install AWS Python packages:
         $ pip install awscli --upgrade --user
         $ sudo apt-get install awscli
-    
+
     [6.2] Configure AWS Credentials:
         The user must provided an "access_key" and an "secret access key" provided py Amazon.
         $ aws configure
@@ -87,7 +87,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
             AWS Secret Access Key [None]: <secret_access_key_provided_by_user>
             Default region name [None]: us-east-1
             Default output format [None]: json
-    
+
     [6.3] Install AWS SDK for Python:
         $ pip install boto3 
  
