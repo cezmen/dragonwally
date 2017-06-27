@@ -38,7 +38,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
     Utility Scripts    : <install_dir>/dragonwally/dw/utils
 
 
-[3] KEY SCRIPTS 
+[3] MAIN SCRIPTS 
 
     ACTIVATE CAMERAS :  <install_dir>/dragonwally/dw/utils/activate_two_cameras.sh
 
@@ -75,7 +75,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
     http://www.96boards.org/documentation/ConsumerEdition/DragonBoard-410c/Installation/README.md
 
 
-[6] AMAZON AWS Cloud Requirements
+[6] AMAZON AWS CLOUD REQUIREMENTS
 
     [6.1] Install AWS Python packages:
         pip install awscli --upgrade --user
