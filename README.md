@@ -36,7 +36,7 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
 
 [3] KEY SCRIPTS 
 
-    ACTIVATE CAMERAS :  <install_dir>/dragonwally/dw/utils/activate_two_cameras.sh
+    ACTIVATE MIPI-CSI CAMERAS :  <install_dir>/dragonwally/dw/utils/activate_two_cameras.sh
 
     RUN DRAGONWALLY SENSOR : <install_dir>/dragonwally/dw/dragonwallysensor/run_sensor.sh
 
