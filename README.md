@@ -1,8 +1,10 @@
 # dragonwally
 
 This is the final "snapshot" of the DragonWally firmware, used during
-the contest "Inventando o Futuro com DragonBoard 410C" organized by
+the contest "Inventando o Futuro com DragonBoard 410c" ("Inventing the Future with DragonBoard 410c") organized by
 Embarcados and Qualcomm.
+
+http://www.96boards.org/go/db410c-partnership-brazil/
 
 Please, refer to the following URL for the DragonWally project details :
 
@@ -12,7 +14,7 @@ https://contest.embarcados.com.br/projetos/sistema-de-identificacao-de-pessoas-b
 
 The user must choose an <install_dir> directory.
 
-Run the following commands :
+To install, run the following commands :
 
     mkdir <install_dir>
 
@@ -26,6 +28,7 @@ Run the following commands :
 
 This will install the DragonWally project in the directory <install_dir>/dragonwally/dw
 
+
 [2] DIRECTORY STRUCTURE
 
     DragonWally Sensor : <install_dir>/dragonwally/dw/dragonwallysensor
@@ -34,12 +37,45 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
 
     Utility Scripts    : <install_dir>/dragonwally/dw/utils
 
+
 [3] KEY SCRIPTS 
 
-    ACTIVATE MIPI-CSI CAMERAS :  <install_dir>/dragonwally/dw/utils/activate_two_cameras.sh
+    ACTIVATE CAMERAS :  <install_dir>/dragonwally/dw/utils/activate_two_cameras.sh
 
     RUN DRAGONWALLY SENSOR : <install_dir>/dragonwally/dw/dragonwallysensor/run_sensor.sh
 
     RUN DRAGONWALLY API : <install_dir>/dragonwally/dw/dragonwallyadmin/DragonWallyAPI/run_api.sh
 
 
+[4] HARDWARE REQUIREMENTS 
+
+[4.1] DragonBoard 410c Kit (The DragonBoard 410c SBC, HDMI display, Keyboard and Mouse)
+    https://www.arrow.com/en/products/dragonboard410c/arrow-development-tools
+    
+[4.2] AIStarVision MIPI Adapter 2.0 with dual OV5645 Cameras
+    http://www.96boards.org/product/mipi-adapter-mezzanine/
+    https://github.com/Kevin-WSCU/96Boards-Camera
+    
+[4.3] Logitech C270 Webcam
+    https://www.logitech.com/product/hd-webcam-c270
+
+
+[5] SOFTWARE REQUIREMENTS
+
+[5.1] OPERATING SYSTEM : Linaro Debian 16.09
+
+    http://builds.96boards.org/releases/dragonboard410c/linaro/debian/16.09/
+
+[5.2] AIStarVision Custom Boot Image for Dual Cameras
+
+    https://github.com/Kevin-WSCU/96Boards-Camera/tree/master/Pre-built/Debian_16.09/StereoCamera/OV5645
+    
+    Using the "Fastboot Method", the user must replace the original "boot image" of Linaro Debian 16.09 
+    with "boot-db410c.img" provided in the link above.
+    
+    Instructions of the "Fastboot Method" :
+    http://www.96boards.org/documentation/ConsumerEdition/DragonBoard-410c/Installation/README.md/
+    
+    
+    
+    
