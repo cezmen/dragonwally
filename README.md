@@ -1,8 +1,10 @@
 # dragonwally
 
+PEOPLE IDENTIFICATION SYSTEM BASED ON STEREOSCOPIC COMPUTER VISION
+
 This is the final "snapshot" of the DragonWally firmware, used during
-the contest "Inventando o Futuro com DragonBoard 410c" ("Inventing the Future with DragonBoard 410c") organized by
-Embarcados and Qualcomm.
+the contest "Inventando o Futuro com DragonBoard 410c" ("Inventing the Future with DragonBoard 410c") 
+organized by Embarcados and Qualcomm.
 
 http://www.96boards.org/go/db410c-partnership-brazil/
 
