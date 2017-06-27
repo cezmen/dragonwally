@@ -34,4 +34,12 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
 
     Utility Scripts    : <install_dir>/dragonwally/dw/utils
 
+[3] KEY SCRIPTS 
+
+    ACTIVATE CAMERAS :  <install_dir>/dragonwally/dw/utils/activate_two_cameras.sh
+
+    RUN DRAGONWALLY SENSOR : <install_dir>/dragonwally/dw/dragonwallysensor/run_sensor.sh
+
+    RUN DRAGONWALLY API : <install_dir>/dragonwally/dw/dragonwallyadmin/DragonWallyAPI/run_api.sh
+
 
