@@ -1,4 +1,6 @@
-# dragonwally
+###############
+# dragonwally #
+###############
 
 This is the final "snapshot" of the DragonWally firmware, used during
 the contest "Inventando o Futuro com DragonBoard 410C" organized by
@@ -10,9 +12,9 @@ https://contest.embarcados.com.br/projetos/sistema-de-identificacao-de-pessoas-b
 
 [1] INSTALLATION
 
-The user must choose an <install_dir>
+The user must choose an <install_dir> directory.
 
-Run the following commands 
+Run the following commands :
 
 $ mkdir <install_dir>
 $ cd <install_dir>
@@ -22,12 +24,12 @@ $ tar -xvzf dragonwally-1.0.tar.gz
 
 This will install the DragonWally project in the directory <install_dir>/dragonwally/dw
 
-[2] Directory Structure
+[2] DIRECTORY STRUCTURE
 
-DragonWally Sensor : <install_dir>/dragonwally/dw/dragonwallysensor
+    DragonWally Sensor : <install_dir>/dragonwally/dw/dragonwallysensor
 
-DragonWally Admin  : <install_dir>/dragonwally/dw/dragonwallyadmin
+    DragonWally Admin  : <install_dir>/dragonwally/dw/dragonwallyadmin
 
-Utility Scripts    : <install_dir>/dragonwally/dw/utils
+    Utility Scripts    : <install_dir>/dragonwally/dw/utils
 
 
