@@ -49,15 +49,15 @@ This will install the DragonWally project in the directory <install_dir>/dragonw
 
 [4] HARDWARE REQUIREMENTS 
 
-[4.1] DragonBoard 410c Kit (The DragonBoard 410c SBC, HDMI display, Keyboard and Mouse)
-    https://www.arrow.com/en/products/dragonboard410c/arrow-development-tools
+    [4.1] DragonBoard 410c Kit (The DragonBoard 410c SBC, HDMI display, Keyboard and Mouse)
+        https://www.arrow.com/en/products/dragonboard410c/arrow-development-tools
     
-[4.2] AIStarVision MIPI Adapter 2.0 with dual OV5645 Cameras
-    http://www.96boards.org/product/mipi-adapter-mezzanine/
-    https://github.com/Kevin-WSCU/96Boards-Camera
+    [4.2] AIStarVision MIPI Adapter 2.0 with dual OV5645 Cameras
+        http://www.96boards.org/product/mipi-adapter-mezzanine/
+        https://github.com/Kevin-WSCU/96Boards-Camera
     
-[4.3] Logitech C270 Webcam
-    https://www.logitech.com/product/hd-webcam-c270
+    [4.3] Logitech C270 Webcam
+        https://www.logitech.com/product/hd-webcam-c270
 
 
 [5] SOFTWARE REQUIREMENTS
